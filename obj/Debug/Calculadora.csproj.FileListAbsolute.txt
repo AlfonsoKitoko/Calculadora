@@ -8,3 +8,13 @@ C:\Users\alfmarkit\RiderProjects\Calculadora\Calculadora\obj\Debug\Calculadora.c
 C:\Users\alfmarkit\RiderProjects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\alfmarkit\RiderProjects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\alfmarkit\RiderProjects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Pirok\RiderProjects\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Pirok\RiderProjects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Pirok\RiderProjects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.F_Calculator.resources

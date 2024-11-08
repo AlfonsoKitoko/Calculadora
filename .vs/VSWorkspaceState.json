@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\.idea\\.idea.Calculadora.dir",
+    "\\.idea\\.idea.Calculadora.dir\\.idea",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Properties",
+    "\\Resources"
+  ],
+  "PreviewInSolutionExplorer": false
+}
