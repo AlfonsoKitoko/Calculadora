@@ -18,3 +18,13 @@ C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.CoreCompil
 C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\Pirok\RiderProjects\Calculadora\obj\Debug\Calculadora.F_Calculator.resources
+C:\Users\alfmarkit\RiderProjects\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alfmarkit\RiderProjects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alfmarkit\RiderProjects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.F_Calculator.resources
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alfmarkit\RiderProjects\Calculadora\obj\Debug\Calculadora.pdb
